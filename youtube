@@ -1,0 +1,30 @@
+// this is the style of the first version of youtube icon
+.desktop{
+  background-color: #ffffff;
+  width: 100%;
+  min-width: 1440px;
+  min-height: 1024px;
+  position: relative;
+}
+.desktop .rectangle{
+  position: absolute;
+  top: 247px;
+  left: 294px;
+  width: 826px;
+  height: 470px;
+  background-color: #ff0101;
+  border-radius: 30px;
+}
+.desktop .polygon{
+  position: absolute;
+top: 396px;
+left: 600px;
+width: 185px;
+height: 171px;
+ border-left: 92px solid transparent;
+  border-right: 92px solid transparent;
+  border-bottom: 171px solid #fdfdfd;
+}
+button:focus-visible{
+  outline: 2px solid #4a90e2 !important;
+}
