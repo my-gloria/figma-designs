@@ -1,0 +1,16 @@
+// index.html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="ellipse">
+      <div class="div"></div>
+      <div class="text-wrapper">f</div>
+    </div>
+  </body>
+</html>
