@@ -14,3 +14,33 @@
     </div>
   </body>
 </html>
+//the style.css
+.ellipse {
+  position: relative;
+  width: 185px;
+  height: 178px;
+}
+
+.ellipse .div {
+  position: absolute;
+  width: 60.54%;
+  height: 61.80%;
+  top: 14.61%;
+  left: 20.54%;
+  background-color: #3f82e6;
+  border-radius: 56px / 55px;
+}
+
+.ellipse .text-wrapper {
+  position: absolute;
+  width: 17.84%;
+  height: 61.24%;
+  top: 19.10%;
+  left: 41.08%;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 90px;
+  letter-spacing: 0;
+  line-height: normal;
+}
